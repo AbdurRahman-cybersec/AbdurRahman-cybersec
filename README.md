@@ -13,7 +13,7 @@
  
 </div>
 <p align="center">
-<a href="www.linkedin.com/in/abdur-rahman-khan-cybersec" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/abdur-rahman-khan-cybersec" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 
