@@ -40,7 +40,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="110" height="110">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="110" height="110">&nbsp;
 <img src="https://nmap.org/images/nmap-logo-64px.svg" title="Nmap" alt="Nmap" width="110" height="110">&nbsp;
-<img src="https://kb.swivelsecure.com/w/images/thumb/d/d1/Cisco-meraki-logo.png/240px-Cisco-meraki-logo.png" alt="Cisco Meraki" width="110" height="110">&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Meraki_Logo_2016.svg/1200px-Meraki_Logo_2016.svg.png" alt="Cisco Meraki" width="110" height="110">&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Graylog-logo-blk.jpg/330px-Graylog-logo-blk.jpg" title="Graylog" alt="Graylog" width="210" height="110">&nbsp;
         <img src="https://www.kali.org/images/kali-dragon-icon.svg" title="Kali Linux" alt="Kali Linux" width="110" height="110">&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" title="Microsoft Azure" alt="Microsoft Azure" width="110" height="110">&nbsp;
