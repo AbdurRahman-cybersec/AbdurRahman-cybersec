@@ -13,12 +13,16 @@
  
 </div>
 <p align="center">
+  
 <a href="https://www.linkedin.com/in/abdur-rahman-khan-cybersec" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 
 <a href="mailto:abdurstudywork2@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+  <br>
+  <br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/abdurstudywork.png" alt="Your Image Badge" />
 
 
   <h3> &nbsp;About Me :</h3>
