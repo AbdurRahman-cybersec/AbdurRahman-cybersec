@@ -44,12 +44,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="110" height="110">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="110" height="110">&nbsp;
 <img src="https://nmap.org/images/nmap-logo-64px.svg" title="Nmap" alt="Nmap" width="110" height="110">&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Meraki_Logo_2016.svg/1200px-Meraki_Logo_2016.svg.png" alt="Cisco Meraki" width="110" height="110">&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Meraki_Logo_2016.svg/1280px-Meraki_Logo_2016.svg.png" alt="Cisco Meraki" width="250" height="110">&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Graylog-logo-blk.jpg/330px-Graylog-logo-blk.jpg" title="Graylog" alt="Graylog" width="210" height="110">&nbsp;
         <img src="https://www.kali.org/images/kali-dragon-icon.svg" title="Kali Linux" alt="Kali Linux" width="110" height="110">&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" title="Microsoft Azure" alt="Microsoft Azure" width="110" height="110">&nbsp;
         <img src="https://assets.tryhackme.com/img/modules/metasploit.png" title="Metasploit" alt="Metasploit" width="150" height="150">&nbsp;
-    <img src="https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo-full-dog.jpg" title="Autopsy" alt="Autopsy" width="200" height="200">&nbsp;
+    <img src="https://www.autopsy.com/wp-content/uploads/2019/08/autopsy-logo-full-dog.jpg" title="Autopsy" alt="Autopsy" width="300" height="200">&nbsp;
         <img src="https://winfe.wordpress.com/wp-content/uploads/2020/04/cropped-winfelogo.png?w=200" title="WinFE" alt="WinFE" width="150" height="150">&nbsp;
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" title="Wireshark" alt="Wireshark" width="110" height="110">&nbsp;
         <img src="https://www.paloaltonetworks.com/content/dam/pan/en_US/images/logos/brand/primary-company-logo/Parent-logo.png?imwidth=480" title="Palo Alto" alt="Palo Alto" width="210" height="110">&nbsp;
